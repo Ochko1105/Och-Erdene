@@ -1,6 +1,8 @@
 <h1 align="center">Hello 👋</h1>
-<h2 align="center">I'm Och-Erdene i want to be Fullstack Developer</h2>
-<h3 align="center">Develop Software Solutions</h3>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Och-Erdene+i+want+to+be+Fullstack+Developer)](https://git.io/typing-svg)
+
+
 
 ---
 
