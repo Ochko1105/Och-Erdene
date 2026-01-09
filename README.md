@@ -24,15 +24,10 @@
 
 <div align="center">
 
-![Stats](https://github-states-generator.vercel.app/api?username=Ochko1105&card=stats&theme=tokyonight)
-![Top Langs](https://github-states-generator.vercel.app/api?username=Ochko1105&card=langs&theme=tokyonight)
-![Streak](https://github-states-generator.vercel.app/api?username=Ochko1105&card=streak&theme=tokyonight&show_icons=true&bg_color=282525)
+![Streak](https://github-states-generator.vercel.app/api/streak?username=Ochko1105&theme=tokyonight&show_icons=true&bg_color=282525)
 
 </div>
 
 ---
 
-## 🏆 Rank
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ochko1105&theme=tokyonight&row=1" />
-</div>
+
